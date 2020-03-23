@@ -2,8 +2,6 @@
 
 <h2>Data Source:</h2>  https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-<h2>EDA:</h2> https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/
-
 <h2>About Dataset:</h2>
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
 
